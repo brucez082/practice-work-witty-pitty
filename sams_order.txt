@@ -1,0 +1,40 @@
+************ Order for Bruce - Zhang *******Bruce
+Zhang
+39498304
+White
+Carved Turkey
+Cheddar cheese
+ 
+Buffalo
+2021-08-30 11:00:07.900641
+*********** End of Order: 2021-08-30 11:00:07.900641. ******************* Order for Bruce - Zhang *******Bruce
+Zhang
+Bruce Zhang
+39483938495
+White
+Carved Turkey
+Cheddar cheese
+ 
+Buffalo
+2021-08-30 11:47:32.632537
+*********** End of Order: 2021-08-30 11:47:32.632537. ******************* Order for Bruce - Zhang *******Bruce
+Zhang
+Bruce Zhang
+29390482
+Brown
+The ultimate meatball
+Mozzarella cheese
+ 
+Buffalo
+2021-08-30 14:37:40.929303
+*********** End of Order: 2021-08-30 14:37:40.929303. ******************* Order for Bruce - Zhang *******Bruce
+Zhang
+Bruce Zhang
+12345678901
+White
+Carved Turkey
+Cheddar cheese
+['Red onion salad']
+Barbecue
+2021-09-03 10:26:05.185228
+*********** End of Order: 2021-09-03 10:26:05.185228. *******
